@@ -6,7 +6,7 @@
 - [x] 1: Classes e Contexto
 - [x] 2: Encapsulamento Privado
 - [x] 3: Getters/Setters e Estado
-- [ ] 4: SOLID (S) - Responsabilidade Única
+- [x] 4: SOLID (S) - Responsabilidade Única
 - [ ] 5: Variáveis e Métodos de Classe
 - [ ] 6: Métodos Estáticos
 - [ ] 7: Associação de Classes
