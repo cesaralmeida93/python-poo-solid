@@ -5,7 +5,7 @@
 ### Aulas:
 - [x] 1: Classes e Contexto
 - [x] 2: Encapsulamento Privado
-- [ ] 3: Getters/Setters e Estado
+- [x] 3: Getters/Setters e Estado
 - [ ] 4: SOLID (S) - Responsabilidade Única
 - [ ] 5: Variáveis e Métodos de Classe
 - [ ] 6: Métodos Estáticos
