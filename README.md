@@ -8,7 +8,7 @@
 - [x] 3: Getters/Setters e Estado
 - [x] 4: SOLID (S) - Responsabilidade Única
 - [x] 5: Variáveis e Métodos de Classe
-- [ ] 6: Métodos Estáticos
+- [x] 6: Métodos Estáticos
 - [ ] 7: Associação de Classes
 - [ ] 8: SOLID (O) - Princípio Aberto / Fechado
 - [ ] 9: Exercício Princípio Aberto / Fechado
