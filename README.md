@@ -7,7 +7,7 @@
 - [x] 2: Encapsulamento Privado
 - [x] 3: Getters/Setters e Estado
 - [x] 4: SOLID (S) - Responsabilidade Única
-- [ ] 5: Variáveis e Métodos de Classe
+- [x] 5: Variáveis e Métodos de Classe
 - [ ] 6: Métodos Estáticos
 - [ ] 7: Associação de Classes
 - [ ] 8: SOLID (O) - Princípio Aberto / Fechado
