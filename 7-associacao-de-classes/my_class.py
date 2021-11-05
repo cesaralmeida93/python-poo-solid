@@ -1,10 +1,3 @@
-# 7: Associação de Classes
-
-- Associação: Um objeto navega para a utilização de outro objeto
- 
-## python
-
-```python
 from typing import Type
 
 class Interruptor:
@@ -39,4 +32,3 @@ interruptor_quarto.acender()
 lhama.acender_luz(interruptor_cozinha)
 lhama.apagar_luz(interruptor_cozinha)
 lhama.dormir()
-```
