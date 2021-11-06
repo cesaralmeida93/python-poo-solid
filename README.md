@@ -9,8 +9,8 @@
 - [x] 4: SOLID (S) - Responsabilidade Única
 - [x] 5: Variáveis e Métodos de Classe
 - [x] 6: Métodos Estáticos
-- [ ] 7: Associação de Classes
-- [ ] 8: SOLID (O) - Princípio Aberto / Fechado
+- [x] 7: Associação de Classes
+- [x] 8: SOLID (O) - Princípio Aberto / Fechado
 - [ ] 9: Exercício Princípio Aberto / Fechado
 - [ ] 10: Injeção de Dependência
 - [ ] 11: Associação Bilateral
