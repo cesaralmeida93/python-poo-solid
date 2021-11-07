@@ -12,7 +12,7 @@
 - [x] 7: Associação de Classes
 - [x] 8: SOLID (O) - Princípio Aberto / Fechado
 - [x] 9: Exercício Princípio Aberto / Fechado
-- [ ] 10: Injeção de Dependência
+- [x] 10: Injeção de Dependência
 - [ ] 11: Associação Bilateral
 - [ ] 12: Introdução à Herança
 - [ ] 13: Encapsulamento em Heranças
