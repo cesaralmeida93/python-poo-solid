@@ -1,4 +1,4 @@
-# 7: SOLID(O) - Princípio Aberto/Fechado
+# 8: SOLID(O) - Princípio Aberto/Fechado
 
 - Open/Close Principle(OCP): Sistemas devem ser fáceis de mudar, projetados para permitir que comportamentos sejam alterados pela adição de novo código
 - Um módulo é considerado fechado se estiver disponível para outros módulos, ele deve ter uma descrição definida e estável
