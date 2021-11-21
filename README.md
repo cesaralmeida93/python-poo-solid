@@ -14,7 +14,7 @@
 - [x] 9: Exercício Princípio Aberto / Fechado
 - [x] 10: Injeção de Dependência
 - [x] 11: Associação Bilateral
-- [ ] 12: Introdução à Herança
+- [x] 12: Introdução à Herança
 - [ ] 13: Encapsulamento em Heranças
 - [ ] 14: SOLID(L) - Princípio da Substituição de Liskov
 - [ ] 15: Polimorfismo
