@@ -1,0 +1,39 @@
+# 11: Introdução à Herança
+
+- Se baseia em uma relação entre classes, em que são passados alguns elementos de uma classe para outra
+
+## UML
+
+![image](img/UML-1.PNG)
+
+****
+## python
+
+```python
+class Mae:
+
+    def __init__(self, endereco) -> None:
+        self.endereco = endereco
+        self.sobrenome = 'Silva'
+
+    def comer(self) -> None:
+        print('Estou comendo !!!')
+
+    def estudar(self) -> None:
+        print('Estou estudando !!!')
+
+    
+class Filha(Mae):
+    def __init__(self, endereco):
+        super().__init__(endereco)
+
+    def brincar(self, brinquedo: str) -> None:
+        print('estou brincando com {}'.format(brinquedo))
+
+ana = Mae('Rua Elvira')
+clara = Filha('Rua do Bolo')
+clara.brincar('boneca')
+
+print(ana.endereco)
+print(clara.endereco)
+```
