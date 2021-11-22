@@ -16,7 +16,7 @@
 - [x] 11: Associação Bilateral
 - [x] 12: Introdução à Herança
 - [x] 13: Encapsulamento em Heranças
-- [ ] 14: SOLID(L) - Princípio da Substituição de Liskov
+- [x] 14: SOLID(L) - Princípio da Substituição de Liskov
 - [ ] 15: Polimorfismo
 - [ ] 16: Métodos e Classes Abstratas
 - [ ] 17: Interfaces
