@@ -1,4 +1,4 @@
-# 11: Introdução à Herança
+# 12: Introdução à Herança
 
 - Se baseia em uma relação entre classes, em que são passados alguns elementos de uma classe para outra
 

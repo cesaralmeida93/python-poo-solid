@@ -15,7 +15,7 @@
 - [x] 10: Injeção de Dependência
 - [x] 11: Associação Bilateral
 - [x] 12: Introdução à Herança
-- [ ] 13: Encapsulamento em Heranças
+- [x] 13: Encapsulamento em Heranças
 - [ ] 14: SOLID(L) - Princípio da Substituição de Liskov
 - [ ] 15: Polimorfismo
 - [ ] 16: Métodos e Classes Abstratas
