@@ -18,7 +18,7 @@
 - [x] 13: Encapsulamento em Heranças
 - [x] 14: SOLID(L) - Princípio da Substituição de Liskov
 - [x] 15: Polimorfismo
-- [ ] 16: Métodos e Classes Abstratas
+- [x] 16: Métodos e Classes Abstratas
 - [ ] 17: Interfaces
 - [ ] 18: SOLID(I) - Princípio da Segregação de Interfaces
 - [ ] 19: SOLID(D) - Princípio da Inversão de Dependência
