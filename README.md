@@ -20,7 +20,7 @@
 - [x] 15: Polimorfismo
 - [x] 16: Métodos e Classes Abstratas
 - [x] 17: Interfaces
-- [ ] 18: SOLID(I) - Princípio da Segregação de Interfaces
+- [x] 18: SOLID(I) - Princípio da Segregação de Interfaces
 - [ ] 19: SOLID(D) - Princípio da Inversão de Dependência
 - [ ] 20: Agregação de Classes
 - [ ] 21: Composição de Classes
