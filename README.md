@@ -23,7 +23,7 @@
 - [x] 18: SOLID(I) - Princípio da Segregação de Interfaces
 - [x] 19: SOLID(D) - Princípio da Inversão de Dependência
 - [x] 20: Agregação de Classes
-- [ ] 21: Composição de Classes
+- [x] 21: Composição de Classes
 
 
 Fonte: [programador lhama](https://www.youtube.com/playlist?list=PLAgbpJQADBGLo24x_xBwGtTDO-bjwrFb_)
