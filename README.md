@@ -21,7 +21,7 @@
 - [x] 16: Métodos e Classes Abstratas
 - [x] 17: Interfaces
 - [x] 18: SOLID(I) - Princípio da Segregação de Interfaces
-- [ ] 19: SOLID(D) - Princípio da Inversão de Dependência
+- [x] 19: SOLID(D) - Princípio da Inversão de Dependência
 - [ ] 20: Agregação de Classes
 - [ ] 21: Composição de Classes
 
